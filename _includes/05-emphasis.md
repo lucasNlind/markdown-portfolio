@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### **Skills**
+- I can **cook** like a five star chef
+- I can **sing** like *Sinatra*
+- I can **code** like Stephen Hawking
+
+### **Programming Languages**
+- Java
+- Python (*hopefully*)
+- Emacs
